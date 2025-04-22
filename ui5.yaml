@@ -1,0 +1,7 @@
+specVersion: '1.0'
+metadata:
+  name: ui5-task-cachebuster-indexing-with-cssassets
+kind: extension
+type: task
+task:
+  path: lib/cachebuster.js
