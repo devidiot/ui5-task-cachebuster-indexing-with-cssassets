@@ -9,6 +9,10 @@
   ],
   "author": "devidiot",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devidiot/ui5-task-cachebuster-indexing-with-cssassets.git"
+  },
   "description": "UI5 Tooling Task that for resource and css assets indexing files to enable the cachebuster directly into the dist folder",
   "dependencies": {
     "@ui5/builder": "^2.11.11",
